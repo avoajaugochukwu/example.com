@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://avoajaugochukwu.github.io/example.com/sitemap.xml

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apdevv</title>
+    <link>https://avoajaugochukwu.github.io/example.com/</link>
+    <description>Recent content on apdevv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Feb 2021 16:19:28 +0100</lastBuildDate><atom:link href="https://avoajaugochukwu.github.io/example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nirvana</title>
+      <link>https://avoajaugochukwu.github.io/example.com/page/nirvana/</link>
+      <pubDate>Tue, 16 Feb 2021 16:19:28 +0100</pubDate>
+      
+      <guid>https://avoajaugochukwu.github.io/example.com/page/nirvana/</guid>
+      <description>Nirvana was an American rock band formed in Aberdeen, Washington, in 1987 by lead singer and guitarist Kurt Cobain and bassist Krist Novoselic. Though the band dissolved in 1994 after the death of Cobain, their music maintains a popular following and continues to influence modern rock and roll culture</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://avoajaugochukwu.github.io/example.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://avoajaugochukwu.github.io/example.com/search/</guid>
+      <description>search</description>
+    </item>
+    
+  </channel>
+</rss>
