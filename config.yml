@@ -37,15 +37,15 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: "/img/favicon.ico"
-        favicon16x16: "/img/favicon.ico"
-        favicon32x32: "/img/favicon.ico"
-        apple_touch_icon: "/img/favicon.ico"
-        safari_pinned_tab: "/img/favicon.ico"
+        favicon: "https://avoajaugochukwu.github.io/example.com/img/favicon.ico"
+        favicon16x16: "https://avoajaugochukwu.github.io/example.com/img/favicon.ico"
+        favicon32x32: "https://avoajaugochukwu.github.io/example.com/img/favicon.ico"
+        apple_touch_icon: "https://avoajaugochukwu.github.io/example.com/img/favicon.ico"
+        safari_pinned_tab: "https://avoajaugochukwu.github.io/example.com/img/favicon.ico"
 
     label:
         text: "apdevv"
-        icon: /img/logo.png
+        icon: https://avoajaugochukwu.github.io/example.com/img/logo.png
         iconHeight: 35
 
     # profile-mode
